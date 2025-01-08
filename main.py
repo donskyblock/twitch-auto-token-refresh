@@ -74,7 +74,9 @@ class TwitchBot(commands.Bot):
             await asyncio.sleep(3600)  # Refresh every hour
             await refresh_access_token()  # Refresh the token
 
-
+    @commands.command(name="credits")
+    async def credits(self, ctx):
+        await ctx.send("This Example was made by TheSagess on github and discord [TheSages on Twitch]
 
 
 # Main function
