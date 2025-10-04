@@ -15,7 +15,7 @@
 
 ## credits
 
-- Sage [@thesagess on github] (https://vajeservices.com)
+- Don [@donskyblock on github] (https://donaldlyon.com)
 
 ## Donate / Support me
 
